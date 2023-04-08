@@ -1,2 +1,2 @@
 # Visioner
-This android app detects the object from the back camera of mobile phone.
+This android app detects the objects and obstacles from the rear camera of mobile phone.
